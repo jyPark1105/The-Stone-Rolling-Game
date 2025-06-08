@@ -1,29 +1,57 @@
-# The-Stone-Rolling-Game
-Create a Sisyphus-like stone rolling game by adding Bullets, Animation, etc.
+# 🎮 The-Stone-Rolling-Game
 
-Created by:
-Jeyoung Park (Department of Computer Science, Sangmyung University)
-Sanghyeok Bae (Department of Intelligent IoT Convergence, Sangmyung University)
+A Sisyphus-inspired 3D rolling stone game developed with Bullet Physics, skeletal animation, and real-time rendering.
 
-Overview: A real-time 3D game simulating the game of Sisyphus. Developed using OpenGL 4.3 and Bullet Physics, this project focuses on realistic rendering, skeletal animation, and interactive physics, inspired by the metaphor of eternal struggle represented through a rock-pushing mechanic.
+---
 
+### 👤 **Created by**
+- **Jeyoung Park** — *Department of Computer Science, Sangmyung University*  
+- **Sanghyeok Bae** — *Department of Intelligent IoT Convergence, Sangmyung University*
 
-1. Technology Stack
-  - Language: C++, GLSL
-  - Frameworks: GLFW 3.3, OpenGL 4.3
-  - Libraries: Bullet Physics, Assimp, stb_image
-  - Tools: Visual Studio 2022, CMake
+---
 
-2. Keywords
-  - Skeletal animation system with Assimp and shader-based vertex skinning
-  - Physics-based interactions using Bullet (rigid body simulation, collisions)
-  - Physically-Based Rendering (metallic/roughness workflow)
-  - Dynamic lighting and shadow mapping
-  - Slope detection and directional jumping physics
-  - Character-push mechanics with dynamic collider modification
+### 📝 **Project Overview**
 
-3. URL
-  - https://www.youtube.com/watch?v=qQpmfwvg8O0
+> A real-time 3D game simulating the myth of **Sisyphus**, built using **OpenGL 4.3** and **Bullet Physics**.  
+> This project focuses on:
+- **Physically-based rendering (PBR)**  
+- **Skeletal animation with dynamic interactions**  
+- And a metaphorical theme of **eternal struggle** through a rock-pushing mechanic.
 
-4. Etc
-  - But in Demo.
+---
+
+### 🧰 **Technology Stack**
+
+- **Language:** C++, GLSL  
+- **Frameworks:** GLFW 3.3, OpenGL 4.3  
+- **Libraries:** Bullet Physics, Assimp, stb_image  
+- **Tools:** Visual Studio 2022, CMake
+
+---
+
+### 🔍 **Key Features / Keywords**
+
+- 🦴 **Skeletal Animation:** Assimp-based vertex skinning system  
+- 💥 **Physics-based Interactions:** Rigid body simulation & collisions using Bullet  
+- ✨ **Physically-Based Rendering:** Metallic/roughness workflow  
+- 💡 **Dynamic Lighting & Shadow Mapping**  
+- ⛰ **Slope Detection & Directional Jumping Physics**  
+- 🤜 **Character Push Mechanics:** Dynamic collider modification on interaction
+
+---
+
+### 🌐 **Demo URL**
+
+- 📺 [Watch the Gameplay Demo on YouTube](https://www.youtube.com/watch?v=qQpmfwvg8O0)
+
+---
+
+### 📂 **Repository**
+
+- 🗂 [Source Code on GitHub](https://github.com/jyPark1105/The-Stone-Rolling-Game)
+
+---
+
+### 📝 **Note**
+> This project was created as a collaborative academic work at Sangmyung University,  
+as part of an advanced graphics and simulation course.
