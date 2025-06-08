@@ -1,0 +1,8 @@
+.vscode/
+resources/
+resources.zip
+*.psd
+*.png
+*.dll
+*.lib
+x64/

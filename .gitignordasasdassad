@@ -1,0 +1,29 @@
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignordasasdassad
+	includes/glm1/doc/api/arrowdown.png
+	includes/glm1/doc/api/arrowright.png
+	includes/glm1/doc/api/bc_s.png
+	includes/glm1/doc/api/bdwn.png
+	includes/glm1/doc/api/closed.png
+	includes/glm1/doc/api/doc.png
+	includes/glm1/doc/api/doxygen.png
+	includes/glm1/doc/api/folderclosed.png
+	includes/glm1/doc/api/folderopen.png
+	includes/glm1/doc/api/logo.png
+	includes/glm1/doc/api/nav_f.png
+	includes/glm1/doc/api/nav_g.png
+	includes/glm1/doc/api/nav_h.png
+	includes/glm1/doc/api/open.png
+	includes/glm1/doc/api/splitbar.png
+	includes/glm1/doc/api/sync_off.png
+	includes/glm1/doc/api/sync_on.png
+	includes/glm1/doc/api/tab_a.png
+	includes/glm1/doc/api/tab_b.png
+	includes/glm1/doc/api/tab_h.png
+	includes/glm1/doc/api/tab_s.png
+	includes/glm1/doc/logo.png
+	lib/
+
+nothing added to commit but untracked files present (use "git add" to track)
