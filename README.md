@@ -46,9 +46,9 @@ A Sisyphus-inspired 3D rolling stone game developed with Bullet Physics, skeleta
 
 ---
 
-### 📂 **Repository**
+### 📂 **Resource Folder**
 
-- 🗂 [Source Code on GitHub](https://github.com/jyPark1105/The-Stone-Rolling-Game)
+- 🗂 [Resource files on Google Drive]([https://github.com/jyPark1105/The-Stone-Rolling-Game](https://drive.google.com/file/d/17M4N1Lli3TVgcp_7YWP6Biz3ZFwntCku/view?usp=drive_link))
 
 ---
 
