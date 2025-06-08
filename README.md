@@ -1,6 +1,10 @@
 # The-Stone-Rolling-Game
 Create a Sisyphus-like stone rolling game by adding Bullets, Animation, etc.
 
+Created by:
+Jeyoung Park (Department of Computer Science, Sangmyung University)
+Sanghyeok Bae (Department of Intelligent IoT Convergence, Sangmyung University)
+
 Overview: A real-time 3D game simulating the game of Sisyphus. Developed using OpenGL 4.3 and Bullet Physics, this project focuses on realistic rendering, skeletal animation, and interactive physics, inspired by the metaphor of eternal struggle represented through a rock-pushing mechanic.
 
 
