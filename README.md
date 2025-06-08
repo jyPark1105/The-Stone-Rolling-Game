@@ -48,7 +48,7 @@ A Sisyphus-inspired 3D rolling stone game developed with Bullet Physics, skeleta
 
 ### 📂 **Resource Folder**
 
-- 🗂 [Resource files on Google Drive]([https://drive.google.com/file/d/17M4N1Lli3TVgcp_7YWP6Biz3ZFwntCku/view?usp=drive_link])
+- 🗂 [Resource files on Google Drive](https://drive.google.com/file/d/17M4N1Lli3TVgcp_7YWP6Biz3ZFwntCku/view?usp=drive_link)
 
 ---
 
